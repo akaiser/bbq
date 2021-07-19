@@ -1,0 +1,6 @@
+[submodule "bbq_app"]
+	path = bbq_app
+	url = https://github.com/akaiser/bbq_app.git
+[submodule "bbq_be"]
+	path = bbq_be
+	url = https://github.com/akaiser/bbq_be.git
