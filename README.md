@@ -1,7 +1,11 @@
-# 
+# BBQ
 
-
-| Android  | iOS       | Desktop | Web   |
-|----------|-----------|---------|-------|
-| Emulator works | no camera support on Simulator | nope | camera not supported yet |
-| Real device works | Real device works | - | - |
+## Support
+| Type             | Works?              |
+|------------------|---------------------|
+| Android Emulator | yep                 |
+| Android Device   | yep                 |
+| iOS Simulator    | no camera           |
+| iOS Device       | yep                 |
+| Desktop          | nope                |
+| Web              | camera almost there |
