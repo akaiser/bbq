@@ -5,7 +5,7 @@ flutter clean
 flutter build apk --split-per-abi
 
 cd ..
-rm -r bbq_be/release/*.apk
+rm bbq_be/release/*.apk
 cp bbq_app/build/app/outputs/apk/release/app-* bbq_be/release/
 
 cd bbq_be/
