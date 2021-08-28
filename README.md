@@ -12,9 +12,9 @@ Flutter app responsible for periodically taking and uploading pictures to the We
 
 **What is supported**:
 
-| Android Emulator | Android Device | iOS Simulator     | iOS Device | Desktop | Web                 |
-|------------------|----------------|-------------------|------------|---------|---------------------|
-| yep              | yep            | no camera support | not tested | nope    | camera almost there |
+| Android Device | Android Emulator | iOS Device | iOS Simulator     | Desktop | Web                 |
+|----------------|------------------|------------|-------------------|---------|---------------------|
+| yep            | yep              | not tested | no camera support | nope    | camera almost there |
 
 ## BBQ BE
 
